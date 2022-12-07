@@ -63,7 +63,7 @@ main {
 					background: url('../images/bg-pattern-top-mobile.svg'), url('../images/bg-pattern-bottom-mobile.svg');
 					background-position: top left, bottom right;
 					background-repeat: no-repeat;
-					// opacity: 0.3;
+					opacity: 0.3;
 
 					@media screen and (min-width: $mediaMinWidth_desktop) {
 						background: url('../images/bg-pattern-top-desktop.svg'), url('../images/bg-pattern-bottom-desktop.svg');
